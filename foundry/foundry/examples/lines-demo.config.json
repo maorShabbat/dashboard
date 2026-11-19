@@ -1,0 +1,668 @@
+{
+  "id": "lines_demo",
+  "version": 1,
+  "name": "lines demo",
+  "template": "T1",
+  "board": {
+    "reels": 5,
+    "rows": 3
+  },
+  "symbols": {
+    "paying": [
+      "H1",
+      "H2",
+      "H3",
+      "H4",
+      "L1",
+      "L2",
+      "L3",
+      "L4"
+    ],
+    "wild": "W",
+    "scatter": "S",
+    "multiplier": "M"
+  },
+  "paytable": {
+    "tiers": [
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        15
+      ]
+    ],
+    "pays": {
+      "H1": [
+        5.3,
+        21.3,
+        106.6
+      ],
+      "H2": [
+        2.7,
+        10.7,
+        53.3
+      ],
+      "H3": [
+        1.4,
+        5.3,
+        26.6
+      ],
+      "H4": [
+        0.9,
+        3.2,
+        16
+      ],
+      "L1": [
+        0.4,
+        1.7,
+        8.5
+      ],
+      "L2": [
+        0.3,
+        1.1,
+        5.3
+      ],
+      "L3": [
+        0.2,
+        0.6,
+        3.2
+      ],
+      "L4": [
+        0.1,
+        0.4,
+        2.1
+      ]
+    }
+  },
+  "scatterRule": {
+    "spinsPerScatter": 2
+  },
+  "freeSpinTriggers": {
+    "base": {
+      "3": 8,
+      "4": 12,
+      "5": 15,
+      "6": 17,
+      "7": 19,
+      "8": 21,
+      "9": 23,
+      "10": 24
+    },
+    "free": {
+      "2": 3,
+      "3": 5,
+      "4": 8,
+      "5": 12,
+      "6": 14,
+      "7": 16,
+      "8": 18,
+      "9": 20,
+      "10": 22
+    }
+  },
+  "reels": {
+    "rows": 250,
+    "seed": 1,
+    "sets": {
+      "BR0": {
+        "H1": 28,
+        "H2": 38,
+        "H3": 32,
+        "H4": 40,
+        "L1": 36,
+        "L2": 44,
+        "L3": 38,
+        "L4": 24,
+        "W": 6,
+        "S": 3
+      },
+      "FR0": {
+        "H1": 28,
+        "H2": 38,
+        "H3": 32,
+        "H4": 40,
+        "L1": 36,
+        "L2": 44,
+        "L3": 38,
+        "L4": 24,
+        "W": 6,
+        "S": 2,
+        "M": 2
+      },
+      "WCAP": {
+        "H1": 34,
+        "H2": 34,
+        "H3": 32,
+        "H4": 38,
+        "L1": 34,
+        "L2": 42,
+        "L3": 36,
+        "L4": 24,
+        "W": 18,
+        "S": 2,
+        "M": 56
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "base",
+      "cost": 1,
+      "rtp": 0.962,
+      "maxWin": 5000,
+      "isFeature": true,
+      "isBuyBonus": false,
+      "distributions": [
+        {
+          "criteria": "wincap",
+          "quota": 0.001,
+          "winCriteria": 5000,
+          "conditions": {
+            "reelWeights": {
+              "base": {
+                "BR0": 1
+              },
+              "free": {
+                "FR0": 1,
+                "WCAP": 5
+              }
+            },
+            "multValues": {
+              "base": {
+                "10": 10
+              },
+              "free": {
+                "10": 10
+              }
+            },
+            "scatterTriggers": {
+              "5": 2
+            },
+            "forceWincap": true,
+            "forceFreegame": true
+          }
+        },
+        {
+          "criteria": "freegame",
+          "quota": 0.099,
+          "conditions": {
+            "reelWeights": {
+              "base": {
+                "BR0": 1
+              },
+              "free": {
+                "FR0": 1
+              }
+            },
+            "multValues": {
+              "base": {
+                "2": 100,
+                "3": 80,
+                "4": 50,
+                "5": 20,
+                "10": 10
+              },
+              "free": {
+                "2": 100,
+                "4": 80,
+                "5": 50,
+                "7": 20,
+                "10": 10
+              }
+            },
+            "scatterTriggers": {
+              "4": 5,
+              "5": 1
+            },
+            "forceWincap": false,
+            "forceFreegame": true
+          }
+        },
+        {
+          "criteria": "0",
+          "quota": 0.4,
+          "winCriteria": 0,
+          "conditions": {
+            "reelWeights": {
+              "base": {
+                "BR0": 1
+              }
+            },
+            "multValues": {
+              "base": {
+                "2": 100,
+                "4": 80,
+                "5": 50,
+                "7": 20,
+                "10": 10
+              },
+              "free": {
+                "2": 100,
+                "4": 80,
+                "5": 50,
+                "7": 20,
+                "10": 10
+              }
+            },
+            "forceWincap": false,
+            "forceFreegame": false
+          }
+        },
+        {
+          "criteria": "basegame",
+          "quota": 0.5,
+          "conditions": {
+            "reelWeights": {
+              "base": {
+                "BR0": 1
+              }
+            },
+            "multValues": {
+              "base": {
+                "2": 100,
+                "4": 80,
+                "5": 50,
+                "7": 20,
+                "10": 10
+              }
+            },
+            "forceWincap": false,
+            "forceFreegame": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "bonus",
+      "cost": 200,
+      "rtp": 0.962,
+      "maxWin": 5000,
+      "isFeature": false,
+      "isBuyBonus": true,
+      "distributions": [
+        {
+          "criteria": "wincap",
+          "quota": 0.001,
+          "winCriteria": 5000,
+          "conditions": {
+            "reelWeights": {
+              "base": {
+                "BR0": 1
+              },
+              "free": {
+                "FR0": 1,
+                "WCAP": 5
+              }
+            },
+            "multValues": {
+              "base": {
+                "10": 10
+              },
+              "free": {
+                "10": 10
+              }
+            },
+            "scatterTriggers": {
+              "5": 1
+            },
+            "forceWincap": true,
+            "forceFreegame": true
+          }
+        },
+        {
+          "criteria": "freegame",
+          "quota": 0.999,
+          "conditions": {
+            "reelWeights": {
+              "base": {
+                "BR0": 1
+              },
+              "free": {
+                "FR0": 1
+              }
+            },
+            "multValues": {
+              "base": {
+                "2": 100,
+                "4": 80,
+                "5": 50,
+                "7": 20,
+                "10": 10
+              },
+              "free": {
+                "2": 100,
+                "4": 80,
+                "5": 50,
+                "7": 20,
+                "10": 10
+              }
+            },
+            "scatterTriggers": {
+              "4": 10,
+              "5": 5
+            },
+            "forceWincap": false,
+            "forceFreegame": true
+          }
+        }
+      ]
+    }
+  ],
+  "optimization": {
+    "base": {
+      "conditions": {
+        "0": {
+          "rtp": 0,
+          "avWin": 0,
+          "searchConditions": 0
+        },
+        "wincap": {
+          "rtp": 0.001,
+          "avWin": 5000,
+          "searchConditions": 5000
+        },
+        "freegame": {
+          "rtp": 0.372,
+          "hr": 200,
+          "searchConditions": {
+            "symbol": "scatter"
+          }
+        },
+        "basegame": {
+          "rtp": 0.589,
+          "hr": 3.5
+        }
+      },
+      "scaling": [
+        {
+          "criteria": "basegame",
+          "scaleFactor": 1.2,
+          "winRange": [
+            1,
+            2
+          ],
+          "probability": 1
+        },
+        {
+          "criteria": "basegame",
+          "scaleFactor": 1.5,
+          "winRange": [
+            10,
+            20
+          ],
+          "probability": 1
+        },
+        {
+          "criteria": "freegame",
+          "scaleFactor": 0.8,
+          "winRange": [
+            1000,
+            2000
+          ],
+          "probability": 1
+        },
+        {
+          "criteria": "freegame",
+          "scaleFactor": 1.2,
+          "winRange": [
+            3000,
+            4000
+          ],
+          "probability": 1
+        }
+      ],
+      "parameters": {
+        "numShow": 5000,
+        "numPerFence": 10000,
+        "minM2m": 4,
+        "maxM2m": 8,
+        "pmbRtp": 1,
+        "simTrials": 5000,
+        "testSpins": [
+          50,
+          100,
+          200
+        ],
+        "testWeights": [
+          0.3,
+          0.4,
+          0.3
+        ],
+        "scoreType": "rtp",
+        "maxTrialDist": 15
+      },
+      "bias": {
+        "appliedCriteria": [
+          "basegame"
+        ],
+        "biasRanges": [
+          [
+            3,
+            5
+          ]
+        ],
+        "biasWeights": [
+          0.5
+        ]
+      }
+    },
+    "bonus": {
+      "conditions": {
+        "wincap": {
+          "rtp": 0.001,
+          "avWin": 5000,
+          "searchConditions": 5000
+        },
+        "freegame": {
+          "rtp": 0.961,
+          "hr": "x"
+        }
+      },
+      "scaling": [
+        {
+          "criteria": "freegame",
+          "scaleFactor": 1.2,
+          "winRange": [
+            3000,
+            4000
+          ],
+          "probability": 1
+        }
+      ],
+      "parameters": {
+        "numShow": 5000,
+        "numPerFence": 10000,
+        "minM2m": 4,
+        "maxM2m": 8,
+        "pmbRtp": 1,
+        "simTrials": 5000,
+        "testSpins": [
+          10,
+          20,
+          50
+        ],
+        "testWeights": [
+          0.6,
+          0.2,
+          0.2
+        ],
+        "scoreType": "rtp",
+        "maxTrialDist": 15
+      },
+      "bias": {
+        "appliedCriteria": [
+          "freegame"
+        ],
+        "biasRanges": [
+          [
+            90,
+            150
+          ]
+        ],
+        "biasWeights": [
+          0.1
+        ]
+      }
+    }
+  },
+  "run": {
+    "books": {
+      "base": 10000,
+      "bonus": 10000
+    },
+    "threads": 4,
+    "batch": 2500
+  },
+  "limits": {
+    "maxEventsPerRound": 1000
+  },
+  "gameType": "paylines",
+  "paylines": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    [
+      0,
+      1,
+      2,
+      1,
+      0
+    ],
+    [
+      2,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      0,
+      0,
+      1,
+      2,
+      2
+    ],
+    [
+      2,
+      2,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      2,
+      1
+    ],
+    [
+      1,
+      2,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      2,
+      1,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    [
+      0,
+      2,
+      1,
+      0,
+      2
+    ],
+    [
+      2,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      2,
+      0,
+      2,
+      2
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "base": {
+    "normalWin": 0,
+    "loss": 1,
+    "bonusTrigger": 3,
+    "bigWin": 17,
+    "winCap": 3942
+  },
+  "bonus": {
+    "bigWin": 0,
+    "bonusTrigger": 0,
+    "loss": 205,
+    "winCap": 1629,
+    "normalWin": 6
+  }
+}

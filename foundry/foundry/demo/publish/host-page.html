@@ -1,0 +1,119 @@
+<title>Foundry Slot Demo</title>
+<style>
+  /* One screen: the playable game fills the page, a slim bar below it holds the test controls. */
+  :root {
+    --bg: #f4f2f8;
+    --fg: #1d1a30;
+    --muted: #6b6684;
+    --bar: #e7e3f1;
+    --line: #cfc9e0;
+    --accent: #5b34c2;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f0d1a; --fg: #ece9f8; --muted: #9b95b9; --bar: #181531; --line: #2b2650; --accent: #a98bff;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f0d1a; --fg: #ece9f8; --muted: #9b95b9; --bar: #181531; --line: #2b2650; --accent: #a98bff;
+    color-scheme: dark;
+  }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg);
+    color: var(--fg);
+    font: 13px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { position: relative; flex: 1; min-height: 0; }
+  iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; background: transparent; }
+  footer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6px 16px;
+    padding: 8px 16px;
+    background: var(--bar);
+    border-top: 1px solid var(--line);
+    color: var(--muted);
+  }
+  footer p { margin: 0; min-width: 0; }
+  #diag { margin: 0; flex-basis: 100%; font-size: 12px; white-space: pre-wrap; overflow-wrap: anywhere; }
+  #diag[hidden] { display: none; }
+  .actions { display: flex; align-items: center; gap: 12px; }
+  a { color: var(--accent); }
+  button {
+    font: inherit;
+    color: var(--fg);
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 4px 12px;
+    cursor: pointer;
+  }
+  button:hover { border-color: var(--accent); color: var(--accent); }
+  button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+</style>
+
+<main>
+  <p id="wait" style="position:absolute;inset:0;display:grid;place-items:center;margin:0;color:var(--muted)">Loading the game...</p>
+  <iframe id="game" style="position:relative" title="Foundry T1 demo slot" allow="autoplay; fullscreen"></iframe>
+</main>
+<footer>
+  <p>Test build: $1,000 play balance. Rounds come from the verified math, drawn in your browser. Sample art, not final.</p>
+  <span class="actions">
+    <a id="tab" href="game/index.html?sessionID=demo&amp;rgs_url=demo.local&amp;lang=en&amp;device=desktop" target="_blank" rel="noopener">Open in its own tab</a>
+    <button id="reset" type="button">Reset balance</button>
+  </span>
+  <p id="diag" role="status">Starting the game...</p>
+</footer>
+
+<noscript><p style="padding:16px">This demo needs JavaScript.</p></noscript>
+<script>
+  (function () {
+    var frame = document.getElementById("game");
+    function source() {
+      var mobile = window.innerWidth < 800 || /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent);
+      return "game/index.html?sessionID=demo&rgs_url=demo.local&lang=en&device=" + (mobile ? "mobile" : "desktop");
+    }
+    frame.src = source();
+
+    // Progress line: shows each stage as it happens, so a black frame says where it stopped.
+    var diag = document.getElementById("diag");
+    var stages = ["host page loaded"];
+    var problems = [];
+    var ready = false;
+    function show() {
+      if (ready) document.getElementById("wait").hidden = true;
+      // once the game runs, the line only stays for problems (errors reported after the first tap are what explain a game that goes dark)
+      diag.hidden = ready && !problems.length;
+      diag.textContent = (ready ? "The game reported problems:" : "Starting the game (about 50 MB): " + stages.join(" > ")) + (problems.length ? "\n" + problems.join("\n") : "");
+    }
+    frame.addEventListener("load", function () { stages.push("frame loaded"); show(); });
+    window.addEventListener("message", function (e) {
+      var m = e.data && e.data.foundryDemo;
+      if (!m) return;
+      if (m.kind === "ready") { ready = true; show(); return; }
+      if (m.kind === "start" && stages.indexOf("game script running") >= 0) return;
+      if (m.kind === "start") stages.push("game script running");
+      else if (m.kind === "info") stages.push(m.detail);
+      else if (problems.length < 8 && problems.indexOf(m.kind + ": " + m.detail) < 0) problems.push(m.kind + ": " + m.detail);
+      show();
+    });
+    show();
+    setTimeout(function () {
+      if (ready) return;
+      stages.push(stages.indexOf("frame loaded") < 0 ? "no frame load after 25 s" : "no game connection after 25 s");
+      show();
+    }, 25000);
+
+    document.getElementById("reset").addEventListener("click", function () {
+      try { sessionStorage.removeItem("foundry-demo-balance"); } catch (e) { /* storage unavailable: the reload still starts a new session */ }
+      frame.src = source() + "&t=" + Date.now();
+    });
+  })();
+</script>

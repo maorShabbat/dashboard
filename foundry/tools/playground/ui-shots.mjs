@@ -1,0 +1,16 @@
+import { launch, serve, open, save } from './lib.mjs';
+const srv = await serve(); const browser = await launch();
+const { page, errors } = await open(browser, srv.url, { w: 1500, h: 900, query: 'fresh=1' });
+await page.waitForTimeout(2500);
+save('ui-library.png', await page.screenshot());
+await page.click('[data-testid="card-text-animations.pop-letters"]');
+await page.waitForTimeout(1800);
+save('ui-workspace.png', await page.screenshot());
+await page.click('[data-testid="tab-look"]');
+await page.waitForTimeout(400);
+save('ui-look.png', await page.screenshot());
+await page.click('[data-testid="font-open"]');
+await page.waitForTimeout(2500);
+save('ui-fonts.png', await page.screenshot());
+console.log(errors.join('\n') || 'no console errors');
+await browser.close(); await srv.close();

@@ -1,0 +1,5701 @@
+{
+ "generated": "2026-10-02",
+ "categories": [
+  {
+   "id": "chunky",
+   "name": "Chunky display · round / bubbly"
+  },
+  {
+   "id": "arcade",
+   "name": "Arcade / pixel"
+  },
+  {
+   "id": "comic",
+   "name": "Comic / cartoon"
+  },
+  {
+   "id": "condensed",
+   "name": "Condensed impact"
+  },
+  {
+   "id": "rounded",
+   "name": "Rounded / playful"
+  },
+  {
+   "id": "fantasy",
+   "name": "Fantasy / Nordic / viking"
+  },
+  {
+   "id": "horror",
+   "name": "Horror"
+  },
+  {
+   "id": "scifi",
+   "name": "Futuristic / sci-fi"
+  },
+  {
+   "id": "western",
+   "name": "Western"
+  },
+  {
+   "id": "elegant",
+   "name": "Elegant / cabaret"
+  }
+ ],
+ "families": [
+  {
+   "id": "sigmar-one",
+   "family": "Sigmar One",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "sigmar-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 44184,
+     "sha256": "4a0f1b5977a493f3fab61e866eadad20ac5207638768356460911c29f2a5256b"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/sigmar-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Sigmar+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/sigmar-one/LICENSE.txt",
+   "copyright": "Copyright 2011 The Sigmar One Project Authors (contact@sansoxygen.com)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v20",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "passion-one",
+   "family": "Passion One",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    700,
+    900
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "passion-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 7540,
+     "sha256": "eb49ce211df074142d735927bb3e8b655ccf39a7cc444baf02e871bcd47986df"
+    },
+    {
+     "file": "passion-one-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 7468,
+     "sha256": "8cdeeec8046cdeb8b91bffcb1c4d09984d125721d57406b34e0eac76cdaba025"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/passion-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Passion+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/passion-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Passion\" PassionOne-Bold.ttf: Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Passion\" PassionOne-Black.ttf: Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Passion\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v20",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "carter-one",
+   "family": "Carter One",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "carter-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 28140,
+     "sha256": "275ea25e088288d582f9ea08a342098b4e8dbabdfd9ba2c6e888dd826ffbd22f"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/carter-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Carter+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/carter-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v18",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "rowdies",
+   "family": "Rowdies",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    300,
+    400,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "rowdies-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17700,
+     "sha256": "7d1d3785c52509b4d4035359de1abd1c0c1668ba4e5565a059c8d967c991939a"
+    },
+    {
+     "file": "rowdies-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 17872,
+     "sha256": "9e682b2cf748d8b0b3dfc154849370cac5d68c8034956fcd9e481672202c356f"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/rowdies (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Rowdies",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/rowdies/LICENSE.txt",
+   "copyright": "Copyright 2018 The Rowdies Project Authors (https://github.com/magictype/rowdies) Rowdies-Regular.ttf: Copyright 2018 The Rowdies Project Authors (https://github.com/magictype/rowdies) Rowdies-Bold.ttf: Copyright 2018 The Rowdies Project Authors (https://github.com/magictype/rowdies)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v19",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "racing-sans-one",
+   "family": "Racing Sans One",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "racing-sans-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 21804,
+     "sha256": "2ff92c8abe7a35962922c54da215d68690f8502463698b1b595bed597b63e3ff"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/racing-sans-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Racing+Sans+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/racing-sans-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com) and Rodrigo Fuenzalida (www.rfuenzalida.com), with Reserved Font Name Racing Sans.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "grandstander",
+   "family": "Grandstander",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    700,
+    900
+   ],
+   "allWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "grandstander-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 23464,
+     "sha256": "cf0cb75ed04fe1718b739ede45fe8e27d4ee8aad1a341daa74f79e9d06d22120"
+    },
+    {
+     "file": "grandstander-latin-900-italic.woff2",
+     "weight": 900,
+     "style": "italic",
+     "bytes": 22904,
+     "sha256": "78b80ce3f21170d614f808269e1453bb43cdd87050b73ad2e4d44f4e0602b51b"
+    },
+    {
+     "file": "grandstander-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 22832,
+     "sha256": "eac96063445662cef9d06a393b6897fde87d3ad987423349e12e7caef93f7ef6"
+    },
+    {
+     "file": "grandstander-latin-900-normal.woff2",
+     "weight": 900,
+     "style": "normal",
+     "bytes": 22184,
+     "sha256": "47bdcf1c15989722ccbdabd3126c6ec9ac58157de111921582bfa93653d0ca6c"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/grandstander (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Grandstander",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/grandstander/LICENSE.txt",
+   "copyright": "Copyright 2020 The Grandstander Project Authors (https://github.com/Etcetera-Type-Co/Grandstander) Grandstander-Italic[wght].ttf: Copyright 2020 The Grandstander Project Authors (https://github.com/Etcetera-Type-Co/Grandstander)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v20",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "lilita-one",
+   "family": "Lilita One",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "lilita-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 10672,
+     "sha256": "d2575d4fa3632580aafcbcdf6978b3b57e144b90cf5bd9c2c98194f28b869704"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/lilita-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Lilita+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/lilita-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 Juan Montoreano (juan@remolacha.biz), with Reserved Font Names \"Lilita One\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "titan-one",
+   "family": "Titan One",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "titan-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 10752,
+     "sha256": "2f15f138af309ad659b62246999cccc2da21759ec8619d7e6ea759e8eb5a7a53"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/titan-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Titan+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/titan-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 Rodrigo Fuenzalida (hello@rfuenzalida.com), with Reserved Font Name \"Titan One\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "chango",
+   "family": "Chango",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "chango-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 12068,
+     "sha256": "850d1124738b23ae1ae0c45c95bb3402595d8b42773f470528f58f3bfac33146"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/chango (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Chango",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/chango/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Chango\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v29",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "bowlby-one",
+   "family": "Bowlby One",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "bowlby-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 21536,
+     "sha256": "e2f3c84b26df8512d2cda4a9595e278e67b3efc86c5866b0a89ac45a16625e35"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/bowlby-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Bowlby+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/bowlby-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Bowlby\" \"Bowlby One\" and \"Bowlby One SC\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "luckiest-guy",
+   "family": "Luckiest Guy",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "luckiest-guy-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17360,
+     "sha256": "3877b522181765adf66ba89bd68d288ecb9f2483b441baab3424646b0c7aaa0a"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/luckiest-guy (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Luckiest+Guy",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/luckiest-guy/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "modak",
+   "family": "Modak",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "modak-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 33560,
+     "sha256": "044310f45a5f75b5c510d535acdb78b42734c88cf31696b05c58be67e7c2219d"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/modak (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Modak",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/modak/LICENSE.txt",
+   "copyright": "Copyright (c) 2015 Ek Type (www.ektype.in)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "rubik-bubbles",
+   "family": "Rubik Bubbles",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "rubik-bubbles-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 41480,
+     "sha256": "a1a08a6d9b99e908f4ca277a985f32d57db4efa5601dd2a578734ac9754e5295"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/rubik-bubbles (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Rubik+Bubbles",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/rubik-bubbles/LICENSE.txt",
+   "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v3",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "paytone-one",
+   "family": "Paytone One",
+   "category": "chunky",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "paytone-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 23016,
+     "sha256": "07b1f40d200f78b09482bfacca969678125ff4291209044bf0e391027f9981f3"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/paytone-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Paytone+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/paytone-one/LICENSE.txt",
+   "copyright": "Copyright 2011 The Paytone Project Authors (https://github.com/googlefonts/paytoneFont)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "coiny",
+   "family": "Coiny",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "coiny-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 15576,
+     "sha256": "a6fab68158d9c4f93f9ec3ff82b455732ce07c96b0e5939d506f9e2ca4a9dda4"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/coiny (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Coiny",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/coiny/LICENSE.txt",
+   "copyright": "Copyright 2015 Marcelo Magalhaes (marcelommp@gmail.com @marcelommp)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "dynapuff",
+   "family": "DynaPuff",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "dynapuff-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 21528,
+     "sha256": "ba9361061ef09e970a6e38c1a00518081deb4892d2ea5caa064ceaefb97d5569"
+    },
+    {
+     "file": "dynapuff-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 21604,
+     "sha256": "2f01f900923074262eaf5e8ffa0a58e6633bfa13cb1ef46e8506463e866c0fd2"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/dynapuff (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/DynaPuff",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/dynapuff/LICENSE.txt",
+   "copyright": "Copyright 2021 The DynaPuff Project Authors (https://github.com/googlefonts/dynapuff)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v9",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "bagel-fat-one",
+   "family": "Bagel Fat One",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "bagel-fat-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 24376,
+     "sha256": "115ac5b80f2bd487ab5d5af59dd374261b6e81d00eda8361dd70e671d5aa35e4"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/bagel-fat-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Bagel+Fat+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/bagel-fat-one/LICENSE.txt",
+   "copyright": "Copyright 2022 The Bagel Fat Project Authors (https://github.com/JAMO-TYPEFACE/BagelFat)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v2",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "rammetto-one",
+   "family": "Rammetto One",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "rammetto-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 21920,
+     "sha256": "2834f4c0a7ee3b2ce6da1c93463b8c720fbddddc444bd21881c1ada3c66966d9"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/rammetto-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Rammetto+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/rammetto-one/LICENSE.txt",
+   "copyright": "Copyright 2011 The Rammetto Project Authors (https://github.com/googlefonts/RammettoFont), with Reserved Font Name Rammetto.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "shrikhand",
+   "family": "Shrikhand",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "shrikhand-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 15940,
+     "sha256": "ae958e0da508cb9c0094ce2a2cd2ce142756cc434d88ecd3f353c3f80749da9d"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/shrikhand (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Shrikhand",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/shrikhand/LICENSE.txt",
+   "copyright": "Copyright (c) 2015 Jonny Pinhorn (jonpinhorn.typedesign@gmail.com)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "lemon",
+   "family": "Lemon",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "lemon-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 22384,
+     "sha256": "a82e274e84ca104c906a6643b1e9b836fd36ffd72d8e5893d6019a1ab96a846e"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/lemon (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Lemon",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/lemon/LICENSE.txt",
+   "copyright": "Copyright 2011 The Lemon Project Authors (https://github.com/etunni/lemon) with Reserved Font Name \"Lemon\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v19",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "climate-crisis",
+   "family": "Climate Crisis",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "climate-crisis-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17060,
+     "sha256": "a84b1a2cb79a5a84c31a7423658168f9a1384b330ed884dbbcc460012975c879"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/climate-crisis (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Climate+Crisis",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/climate-crisis/LICENSE.txt",
+   "copyright": "Copyright 2020 The Climate Crisis Project Authors (https://github.com/dancoull/ClimateCrisis)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v15",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "bungee",
+   "family": "Bungee",
+   "category": "chunky",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "bungee-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 14344,
+     "sha256": "126eec706b7931682dbcf6c6efc274132c603f181fbf912678e6cfeb341e721b"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/bungee (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Bungee",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/bungee/LICENSE.txt",
+   "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "press-start-2p",
+   "family": "Press Start 2P",
+   "category": "arcade",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "press-start-2p-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 12512,
+     "sha256": "afec86997fdaf54af1f59358fa2c1e2a0f1d04146edad18e5cd141d0384a7548"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/press-start-2p (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Press+Start+2P",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/press-start-2p/LICENSE.txt",
+   "copyright": "Copyright 2012 The Press Start 2P Project Authors (cody@zone38.net), with Reserved Font Name \"Press Start 2P\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v16",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "silkscreen",
+   "family": "Silkscreen",
+   "category": "arcade",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "silkscreen-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 8404,
+     "sha256": "e6c72ea4702249202bcdd79d3343057e4e25ef1f04e3fcffd8602ab53b40b4cc"
+    },
+    {
+     "file": "silkscreen-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 7524,
+     "sha256": "5741b7f01a127f40ed70281fa2f686e8fc2cfe241930a120e4d1a1cebe78f995"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/silkscreen (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Silkscreen",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/silkscreen/LICENSE.txt",
+   "copyright": "Copyright 2001 The Silkscreen Project Authors (https://github.com/googlefonts/silkscreen) Silkscreen-Bold.ttf: Copyright 2001 The Silkscreen Project Authors (https://github.com/googlefonts/silkscreen)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v6",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "vt323",
+   "family": "VT323",
+   "category": "arcade",
+   "fontsourceCategory": "monospace",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "vt323-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17936,
+     "sha256": "8ddbebcc1048154132e1d78eb9b1f7850bca1b7d857035ccf1cb4318ebc615b6"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/vt323 (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/VT323",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/vt323/LICENSE.txt",
+   "copyright": "Copyright 2011, The VT323 Project Authors (peter.hull@oikoi.com)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v18",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "pixelify-sans",
+   "family": "Pixelify Sans",
+   "category": "arcade",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "pixelify-sans-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 7692,
+     "sha256": "d830612ac9131788ebae754b9268f83f7c1d3ffa9bc0f9a5514207a8283fe71e"
+    },
+    {
+     "file": "pixelify-sans-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 7904,
+     "sha256": "c836cfa5c0e9d62ea9b890e0418d52a6004149090a521cd198a8c09f5d5ab893"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/pixelify-sans (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Pixelify+Sans",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/pixelify-sans/LICENSE.txt",
+   "copyright": "Copyright 2021 The Pixelify Sans Project Authors (https://github.com/eifetx/Pixelify-Sans)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v3",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "dotgothic16",
+   "family": "DotGothic16",
+   "category": "arcade",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "dotgothic16-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 10508,
+     "sha256": "d29abf817463fdba7e9e87fc954cfa2b60ea6534e8a79c46e858a0dc5aa6a6f6"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/dotgothic16 (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/DotGothic16",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/dotgothic16/LICENSE.txt",
+   "copyright": "Copyright 2020 The DotGothic16 Project Authors (https://github.com/fontworks-fonts/DotGothic16/)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "tiny5",
+   "family": "Tiny5",
+   "category": "arcade",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "tiny5-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 9036,
+     "sha256": "96bf1ee2d463f06156284a6f1096ce9c3056b130c5a9a24ae860020777f9226f"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/tiny5 (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Tiny5",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/tiny5/LICENSE.txt",
+   "copyright": "Copyright 2022-2024 The Tiny5 Project Authors (https://github.com/Gissio/font_tiny5)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v3",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "micro-5",
+   "family": "Micro 5",
+   "category": "arcade",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "micro-5-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 8932,
+     "sha256": "fc194d34e32041ba45ff8f15c75824b212b43b1c93d855171a26324ef400a367"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/micro-5 (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Micro+5",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/micro-5/LICENSE.txt",
+   "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-micro)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v2",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "workbench",
+   "family": "Workbench",
+   "category": "arcade",
+   "fontsourceCategory": "monospace",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "workbench-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 3372,
+     "sha256": "ea10afedaacd1ee90f9fb35dee2c0f096cdaeea25c1aa37843e1d9fc6edc2b17"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/workbench (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Workbench",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/workbench/LICENSE.txt",
+   "copyright": "Copyright 2021 The Workbench Project Authors (https://github.com/jenskutilek/homecomputer-fonts)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v3",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "sixtyfour",
+   "family": "Sixtyfour",
+   "category": "arcade",
+   "fontsourceCategory": "monospace",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "sixtyfour-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 3060,
+     "sha256": "12f8351f30e1b36790eb3281189685b553b90572397339abfdaec386fe1e0fe5"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/sixtyfour (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Sixtyfour",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/sixtyfour/LICENSE.txt",
+   "copyright": "Copyright 2021 The Sixtyfour Project Authors (https://github.com/jenskutilek/homecomputer-fonts)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v3",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "handjet",
+   "family": "Handjet",
+   "category": "arcade",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "handjet-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 7328,
+     "sha256": "0a617b341818d91740923f7c81cdf8ec0284748af43edf3ffd193e0735506c47"
+    },
+    {
+     "file": "handjet-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 7372,
+     "sha256": "b4039772149a10e5b1c184ad92431cb010ec81ff81fb3db39bc78ebe1108af88"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/handjet (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Handjet",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/handjet/LICENSE.txt",
+   "copyright": "Copyright 2018 The Handjet Project Authors (https://github.com/rosettatype/Handjet/)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v22",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "rubik-pixels",
+   "family": "Rubik Pixels",
+   "category": "arcade",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "rubik-pixels-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 311128,
+     "sha256": "f759f5fac29024dcffe0d669d8cd9487088c8e2803e7407f93c67beb265ea8d4"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/rubik-pixels (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Rubik+Pixels",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/rubik-pixels/LICENSE.txt",
+   "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v3",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "jersey-10",
+   "family": "Jersey 10",
+   "category": "arcade",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "jersey-10-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 13276,
+     "sha256": "a606eb9b440abe7386c0e8aa2c081fb40d4a241758e2b0e49fdd963741ac4590"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/jersey-10 (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Jersey+10",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/jersey-10/LICENSE.txt",
+   "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v4",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "rubik-glitch",
+   "family": "Rubik Glitch",
+   "category": "arcade",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "rubik-glitch-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 72892,
+     "sha256": "ce7442b4b24dec89c46dee8926494d916d16c42ad038b9a14dceb96293773a5c"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/rubik-glitch (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Rubik+Glitch",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/rubik-glitch/LICENSE.txt",
+   "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v2",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "geo",
+   "family": "Geo",
+   "category": "arcade",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "geo-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 10784,
+     "sha256": "3a438d407179b9c8a18673557f4d85548400ec381f03698abace06ca976d0ce8"
+    },
+    {
+     "file": "geo-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 8160,
+     "sha256": "9a044d49ff4d1cdd4798d34eddaa9a449591c8124ab7ce8e41f5370d153870c2"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/geo (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Geo",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/geo/LICENSE.txt",
+   "copyright": "Copyright (c) 2000-2010, Ben Weiner (ben@readingtype.org.uk), with Reserved Font Name Geo. Geo-Oblique.ttf: Copyright (c) 2000-2010, Ben Weiner (ben@readingtype.org.uk), with Reserved Font Name Geo.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "chewy",
+   "family": "Chewy",
+   "category": "comic",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "chewy-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 19920,
+     "sha256": "5fb894030e4ade4d9f76ede985bc96d468bcb923fcd4b908a5d8e38178819dc4"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/chewy (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Chewy",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/chewy/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v18",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "bangers",
+   "family": "Bangers",
+   "category": "comic",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "bangers-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 23528,
+     "sha256": "04f54ff42ea2b8fc50b4259c29c60b1e05e606b769c2fb541c98624346c9767c"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/bangers (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Bangers",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/bangers/LICENSE.txt",
+   "copyright": "Copyright 2010 The Bangers Project Authors (https://github.com/googlefonts/bangers)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "comic-neue",
+   "family": "Comic Neue",
+   "category": "comic",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    300,
+    400,
+    700
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "comic-neue-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 19564,
+     "sha256": "5d9b0135e0088ef23caea9f0d33d2364492b469d470957d43d5ce6d205b99120"
+    },
+    {
+     "file": "comic-neue-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 19828,
+     "sha256": "ee8888e80e0763f8d5646e0a9cf01768bce3443a9edcde52e205fc105cac4d3f"
+    },
+    {
+     "file": "comic-neue-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 19572,
+     "sha256": "b7753f30f8bd4925cf48a2ffe936c52ff1f16fe441f8c0245acf046296ac590f"
+    },
+    {
+     "file": "comic-neue-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 19244,
+     "sha256": "13e9f12e3a0239dcf740e1c7ff37be1cce9b87ead0ad9bce838da1202ac9f91c"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/comic-neue (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Comic+Neue",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/comic-neue/LICENSE.txt",
+   "copyright": "Copyright 2014 The Comic Neue Project Authors (https://github.com/crozynski/comicneue) ComicNeue-LightItalic.ttf: Copyright 2014 The Comic Neue Project Authors (https://github.com/crozynski/comicneue) ComicNeue-Regular.ttf: Copyright 2014 The Comic Neue Project Authors (https://github.com/crozynski/comicneue) ComicNeue-Italic.ttf: Copyright 2014 The Comic Neue Project Authors (https://github.com/crozynski/comicneue) ComicNeue-Bold.ttf: Copyright 2014 The Comic Neue Project Authors (https://github.com/crozynski/comicneue) ComicNeue-BoldItalic.ttf: Copyright 2014 The Comic Neue Project Authors (https://github.com/crozynski/comicneue)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v9",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "permanent-marker",
+   "family": "Permanent Marker",
+   "category": "comic",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "permanent-marker-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 29564,
+     "sha256": "4884fec2c73aa52a2461073c1b87d1ceb80f400520391b43f97ca7d3c39eeb24"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/permanent-marker (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Permanent+Marker",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/permanent-marker/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v16",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "boogaloo",
+   "family": "Boogaloo",
+   "category": "comic",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "boogaloo-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 10276,
+     "sha256": "61ff476ab12ef621ba34a8631e0db1bb9fb5f6d953cbf7081f12df8971e25778"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/boogaloo (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Boogaloo",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/boogaloo/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, John Vargas Beltran (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Boogaloo\".",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "patrick-hand",
+   "family": "Patrick Hand",
+   "category": "comic",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "patrick-hand-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 23944,
+     "sha256": "ac5bc9033b2572bf84d39f7150c1634e37ed16e8dbee632d6d0bceac0bbf0199"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/patrick-hand (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Patrick+Hand",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/patrick-hand/LICENSE.txt",
+   "copyright": "Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "gochi-hand",
+   "family": "Gochi Hand",
+   "category": "comic",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "gochi-hand-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 19908,
+     "sha256": "8851738d8167bd0384db9dee1df6e5b5e2f9221e613e3466cdea19587a81d7b6"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/gochi-hand (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Gochi+Hand",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/gochi-hand/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, HT Fonts (www.htfonts.com info@htfonts.com), with Reserved Font Names \"Gochi\" and \"Gochi Hand\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v27",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "londrina-solid",
+   "family": "Londrina Solid",
+   "category": "comic",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    100,
+    300,
+    400,
+    900
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "londrina-solid-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 30892,
+     "sha256": "7ad0db37df9a924eb0fb15f3814f8e9fdf0273fac6cd78292b00582bafa0c634"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/londrina-solid (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Londrina+Solid",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/londrina-solid/LICENSE.txt",
+   "copyright": "Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\" LondrinaSolid-Light.ttf: Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\" LondrinaSolid-Regular.ttf: Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\" LondrinaSolid-Black.ttf: Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v19",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "bubblegum-sans",
+   "family": "Bubblegum Sans",
+   "category": "comic",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "bubblegum-sans-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 14144,
+     "sha256": "eb8731f38a9a42823804fa2f0feb96eece36750e313edf31ea7203dcc8292b47"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/bubblegum-sans (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Bubblegum+Sans",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/bubblegum-sans/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2011 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name \"Bubblegum Sans\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v22",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "mouse-memoirs",
+   "family": "Mouse Memoirs",
+   "category": "comic",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "mouse-memoirs-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 18316,
+     "sha256": "142542bfb3902539f4d8dc1df0f3236839d53d653d57ba16a6be03c27825112d"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/mouse-memoirs (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Mouse+Memoirs",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/mouse-memoirs/LICENSE.txt",
+   "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name 'Mouse Memoirs'",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v19",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "sedgwick-ave-display",
+   "family": "Sedgwick Ave Display",
+   "category": "comic",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "sedgwick-ave-display-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 34632,
+     "sha256": "33a12de3b608a011d3caad5bfd4e529f0f8d177cc5ba184c68ed6ba998fe02dc"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/sedgwick-ave-display (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Sedgwick+Ave+Display",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/sedgwick-ave-display/LICENSE.txt",
+   "copyright": "Copyright 2017 The Sedgwick Ave Project Authors (https://github.com/googlefonts/sedgwickave)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "knewave",
+   "family": "Knewave",
+   "category": "comic",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "knewave-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17368,
+     "sha256": "6206682ebee5adee8d98d67994ace704244b1b2a221a3c953a083e0b73491034"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/knewave (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Knewave",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/knewave/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by Tyler Finck. All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v15",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "caveat-brush",
+   "family": "Caveat Brush",
+   "category": "comic",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "caveat-brush-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 67460,
+     "sha256": "1e1ef30f8b69c21206603097ad0ba68591539af68214f7cfb2fbd23991accd48"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/caveat-brush (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Caveat+Brush",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/caveat-brush/LICENSE.txt",
+   "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v12",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "fontdiner-swanky",
+   "family": "Fontdiner Swanky",
+   "category": "comic",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "fontdiner-swanky-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17052,
+     "sha256": "0ab288fc4ac5d06aad9b3204dec642328edfe847322f969d2626b49a5796dbfb"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/fontdiner-swanky (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Fontdiner+Swanky",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/fontdiner-swanky/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v24",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "slackey",
+   "family": "Slackey",
+   "category": "comic",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "slackey-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 18640,
+     "sha256": "7301b172d19ceeb2c1847a9f195906bddf59c521b5632f1bb8f3a1ef886e83fc"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/slackey (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Slackey",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/slackey/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v29",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "anton",
+   "family": "Anton",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "anton-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 18612,
+     "sha256": "d0fa07ff63dd60cbc0e2f58e29c802dca2a5ae0276c999f59c6111ab7bbaec3b"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/anton (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Anton",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/anton/LICENSE.txt",
+   "copyright": "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v27",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "bebas-neue",
+   "family": "Bebas Neue",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "bebas-neue-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 13768,
+     "sha256": "a7c90c89240c134f7fdd33d40c000ec90b79d675ea53e8cc5a6d423c073de412"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/bebas-neue (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Bebas+Neue",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/bebas-neue/LICENSE.txt",
+   "copyright": "Copyright 2019 The Bebas Neue Project Authors (https://github.com/dharmatype/Bebas-Neue)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v16",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "oswald",
+   "family": "Oswald",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    200,
+    300,
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "oswald-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 12248,
+     "sha256": "e902b779e43944c300cf8ae5e4a1affa68cb8a823fd263dd2f479c4cdfbd213c"
+    },
+    {
+     "file": "oswald-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 12672,
+     "sha256": "aae665c75af89ea7cb7d8ccc8b0911ea72267442ebcd84f6e3efa041ad3b3c16"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/oswald (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Oswald",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/oswald/LICENSE.txt",
+   "copyright": "Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v57",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "league-gothic",
+   "family": "League Gothic",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "league-gothic-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 10436,
+     "sha256": "44dceee4d918f5928d05ad0711d17e1edd421ce7fd7bed91d05642d8d693a8b1"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/league-gothic (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/League+Gothic",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/league-gothic/LICENSE.txt",
+   "copyright": "Copyright 2020 The League Gothic Project Authors (https://github.com/theleagueof/league-gothic)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v13",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "fjalla-one",
+   "family": "Fjalla One",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "fjalla-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 45228,
+     "sha256": "96bbdb37b0db8ffc26756924566453f5fdcdf58ada20262cd75071b540361b12"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/fjalla-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Fjalla+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/fjalla-one/LICENSE.txt",
+   "copyright": "Copyright 2012 The Fjalla Project Authors (https://github.com/SorkinType/FjallaOne)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v16",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "big-shoulders-display",
+   "family": "Big Shoulders Display",
+   "category": "condensed",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "big-shoulders-display-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 14476,
+     "sha256": "c8039bb11a1c1089affe0e0799e5268041e75f310fa9729e90628d3d7f380284"
+    },
+    {
+     "file": "big-shoulders-display-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 14424,
+     "sha256": "d2d55115d0d7047ce956d4eb8f2fbfe7915552cf4fabb294a5979705ec9687ac"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/big-shoulders-display (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Big+Shoulders+Display",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "http://scripts.sil.org/OFL",
+   "licenseFile": "fonts/big-shoulders-display/LICENSE.txt",
+   "copyright": "Google Inc.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "antonio",
+   "family": "Antonio",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "antonio-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 11016,
+     "sha256": "cd88cea537be3e17425baf7afece2de9ff6cd864fdd7bbf226bf06ce769f8546"
+    },
+    {
+     "file": "antonio-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 11056,
+     "sha256": "8459bf87df7f4dfca098f4e8501c4ae08e45e012ae653e58598f0138f2ed719a"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/antonio (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Antonio",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/antonio/LICENSE.txt",
+   "copyright": "Copyright 2013 The Antonio Project Authors (https://github.com/googlefonts/antonioFont)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v22",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "pathway-gothic-one",
+   "family": "Pathway Gothic One",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "pathway-gothic-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 13936,
+     "sha256": "e0059fa05958cd80f4b93ae37637d279e5bb20116c9007cf98d7fe62cb3b8155"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/pathway-gothic-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Pathway+Gothic+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/pathway-gothic-one/LICENSE.txt",
+   "copyright": "Copyright 2013 The Pathway Gothic Project Authors (https://github.com/etunni/pathway-gothic), with Reserved Font Name 'Pathway'",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v16",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "teko",
+   "family": "Teko",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    300,
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "teko-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 7744,
+     "sha256": "40ce801f68cba2bad6e3383d97583f60682306b9639a52f9d5cdefba1f24404c"
+    },
+    {
+     "file": "teko-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 7280,
+     "sha256": "a57552efb251875b32580e1d14ce784ba1fa48612c7e7d77856375af4cbc87c7"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/teko (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Teko",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/teko/LICENSE.txt",
+   "copyright": "Copyright 2023 The Teko Project Authors (https://www.github.com/googlefonts/teko)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "six-caps",
+   "family": "Six Caps",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "six-caps-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 14376,
+     "sha256": "87c40d86d1c95a6f7c890c1d838d9cf03ae535415962529b331ed963c35af36a"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/six-caps (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Six+Caps",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/six-caps/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by vernon adams (vern@newtypography.co.uk) with Reserved Font Names 'Six Caps'. All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "staatliches",
+   "family": "Staatliches",
+   "category": "condensed",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "staatliches-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 16076,
+     "sha256": "8d6ca3290b223826c702bd4288d4c79234db353792fed22de4db9321851ad9a6"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/staatliches (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Staatliches",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/staatliches/LICENSE.txt",
+   "copyright": "Copyright 2018 The Staatliches Project Authors (https://github.com/googlefonts/staatliches)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v15",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "alumni-sans",
+   "family": "Alumni Sans",
+   "category": "condensed",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "alumni-sans-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 12904,
+     "sha256": "425d9442c94ac7f62dab6199d328dfadb7b6fe44c7a9c67fefffe5edbe5cb8f6"
+    },
+    {
+     "file": "alumni-sans-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 13052,
+     "sha256": "5612fad92fadfbbf2883184e1266b5b0b393b5d3efce234adb47734948ae01f4"
+    },
+    {
+     "file": "alumni-sans-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 12056,
+     "sha256": "fb1b28dd317e8540c20883cc7a2d0e1f8b887f817bc60846406a2e7cacdb31d9"
+    },
+    {
+     "file": "alumni-sans-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 12072,
+     "sha256": "aefa924e09da0ccad5305794737d7b4105da181f78e4bddf184973f9443422c1"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/alumni-sans (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Alumni+Sans",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/alumni-sans/LICENSE.txt",
+   "copyright": "Copyright 2015 The Alumni Sans Project Authors (https://github.com/googlefonts/alumni) AlumniSans-Italic[wght].ttf: Copyright 2015 The Alumni Sans Project Authors (https://github.com/googlefonts/alumni)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v20",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "squada-one",
+   "family": "Squada One",
+   "category": "condensed",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "squada-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 5632,
+     "sha256": "cb6600eaf43e9120445ffcddbb5dcc7654a76d9bf987fd1fdbcbbc863b484020"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/squada-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Squada+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/squada-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com joe@admixdesigns.com) with Reserved Font Name Squada.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v20",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "nunito",
+   "family": "Nunito",
+   "category": "rounded",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "nunito-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 17140,
+     "sha256": "983e9c4b4a8f3bb81190009facbccbe5ecf9f55a758ae95c4759a00f715312d1"
+    },
+    {
+     "file": "nunito-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 17148,
+     "sha256": "e666bd4b48ad20e5385e1f1ec1607d68b85380cfe04064fbb5a2bfdc8200deaf"
+    },
+    {
+     "file": "nunito-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 16316,
+     "sha256": "a5906e15ceb68f73d3b2c2076b4057c3f6ed401186d56283b45ce12944ca0735"
+    },
+    {
+     "file": "nunito-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 16228,
+     "sha256": "fa89300b9bbb3bd0f60d6991aa055965d98e2ccca27bf8688fe0c39cdc796846"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/nunito (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Nunito",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/nunito/LICENSE.txt",
+   "copyright": "Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito) Nunito-Italic[wght].ttf: Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v32",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "quicksand",
+   "family": "Quicksand",
+   "category": "rounded",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    300,
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "quicksand-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 15776,
+     "sha256": "fee25690fddfdf52d7c88f8460260998c523b762e1a53fc91561b179835e3316"
+    },
+    {
+     "file": "quicksand-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 15124,
+     "sha256": "00bfba44dde0dd81d9296cacc53f0ffa3ceff85997e69abd2891cbb9518ff40e"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/quicksand (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Quicksand",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/quicksand/LICENSE.txt",
+   "copyright": "Copyright 2019 The Quicksand Project Authors (https://github.com/andrew-paglinawan/QuicksandFamily.git), with Reserved Font Name \"Quicksand\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v37",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "varela-round",
+   "family": "Varela Round",
+   "category": "rounded",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "varela-round-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 22948,
+     "sha256": "03871f86c86fc776f89d0cb947502f3957181b63327fecaec724bc39d082319f"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/varela-round (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Varela+Round",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/varela-round/LICENSE.txt",
+   "copyright": "Copyright 2023 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names Varela and Varela Round.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "comfortaa",
+   "family": "Comfortaa",
+   "category": "rounded",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    300,
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "comfortaa-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 13576,
+     "sha256": "4e86e54d50483956c59a01b5b671b6807fa7235d94e5716cffc5cf390544b1bc"
+    },
+    {
+     "file": "comfortaa-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 13416,
+     "sha256": "ed9f328cf6aaa4c14dfb464d215e8a0d8d56b675a72fb601b819e95a1cb4e45d"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/comfortaa (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Comfortaa",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/comfortaa/LICENSE.txt",
+   "copyright": "Copyright 2011 The Comfortaa Project Authors (https://github.com/alexeiva/comfortaa), with Reserved Font Name \"Comfortaa\".",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v47",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "m-plus-rounded-1c",
+   "family": "M PLUS Rounded 1c",
+   "category": "rounded",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    100,
+    300,
+    400,
+    500,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "m-plus-rounded-1c-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 22084,
+     "sha256": "0fc4b05c6ef358faab5647c880994d8f8c6ec0f57a0e786637db88d3848e77ac"
+    },
+    {
+     "file": "m-plus-rounded-1c-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 22708,
+     "sha256": "1688f14412dd12f79daffbb8bd9defe98f555aa5799184b8ddd0ae4583a2851f"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/m-plus-rounded-1c (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/M+PLUS+Rounded+1c",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/m-plus-rounded-1c/LICENSE.txt",
+   "copyright": "Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Light.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Regular.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Medium.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Bold.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-ExtraBold.ttf: Copyright 2016 The Rounded M+ Project Authors. MPLUSRounded1c-Black.ttf: Copyright 2016 The Rounded M+ Project Authors.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v22",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "mali",
+   "family": "Mali",
+   "category": "rounded",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    200,
+    300,
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "mali-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 18824,
+     "sha256": "69981a550185a989539be0c1dd77a55e9577f2ec84b83fc722b7cee59b7879a2"
+    },
+    {
+     "file": "mali-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 18756,
+     "sha256": "1f3a47f5c0acdbe7f1e194d806884e76228d76c31addf0f895a9a5db976f3011"
+    },
+    {
+     "file": "mali-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 18220,
+     "sha256": "0a740b9e76eda6bfd02c373e351a09ed0c5cd324e5dbd1db112ccd382e26e612"
+    },
+    {
+     "file": "mali-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 18024,
+     "sha256": "dd64ef687a2b4b05a5d62563bb6c62656563ad443e9d25d51a0440d3714a7eb3"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/mali (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Mali",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/mali/LICENSE.txt",
+   "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-ExtraLightItalic.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-Light.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-LightItalic.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-Regular.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-Italic.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-Medium.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-MediumItalic.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-SemiBold.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-SemiBoldItalic.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-Bold.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali) Mali-BoldItalic.ttf: Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v13",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "itim",
+   "family": "Itim",
+   "category": "rounded",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "itim-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 46200,
+     "sha256": "733235cab0000b011f318ba1028f1867ddc16e506ec8231f4134e9c0755d5ca6"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/itim (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Itim",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/itim/LICENSE.txt",
+   "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v16",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "delius",
+   "family": "Delius",
+   "category": "rounded",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "delius-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 16820,
+     "sha256": "ff2f88a12630943f6104ad66149506e5cead8a7c8e85db3263b0e970cfb17994"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/delius (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Delius",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/delius/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Natalia Raices (nraices@gmail.com). All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "balsamiq-sans",
+   "family": "Balsamiq Sans",
+   "category": "rounded",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    700
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "balsamiq-sans-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 28760,
+     "sha256": "6e0a1cf1c3b31aa40da4886b6c9fa8361a77591691d601ba8d50d0a50f92f416"
+    },
+    {
+     "file": "balsamiq-sans-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 27960,
+     "sha256": "b36787b9f8cbc5c92ad50ca36d047a3becf15e5733e7722730720f83cd9789b6"
+    },
+    {
+     "file": "balsamiq-sans-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 31936,
+     "sha256": "700f52bf877295747d398d45dc57a1af0967ad9592dd01039ce9b88c2bb22a42"
+    },
+    {
+     "file": "balsamiq-sans-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 28964,
+     "sha256": "5ca3c1d797eae89cd0666c07990d5f1ba584a9e31957ffc694dcf6f739781231"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/balsamiq-sans (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Balsamiq+Sans",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/balsamiq-sans/LICENSE.txt",
+   "copyright": "Copyright 2011 The Balsamiq Sans Project Authors (https://github.com/balsamiq/balsamiqsans) BalsamiqSans-Italic.ttf: Copyright 2011 The Balsamiq Sans Project Authors (https://github.com/balsamiq/balsamiqsans) BalsamiqSans-Bold.ttf: Copyright 2011 The Balsamiq Sans Project Authors (https://github.com/balsamiq/balsamiqsans) BalsamiqSans-BoldItalic.ttf: Copyright 2011 The Balsamiq Sans Project Authors (https://github.com/balsamiq/balsamiqsans)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v15",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "playpen-sans",
+   "family": "Playpen Sans",
+   "category": "rounded",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "playpen-sans-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 80132,
+     "sha256": "0501cbd3556c27d1ecd7476df25ec616754fc646c43b4f37cbe0b3007ad61baa"
+    },
+    {
+     "file": "playpen-sans-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 82436,
+     "sha256": "eda3d3d3b97e6076f858e0ec103ddd55cd3a6c5925ad81705a1d2d96eac723fb"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/playpen-sans (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Playpen+Sans",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/playpen-sans/LICENSE.txt",
+   "copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v22",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "baloo-2",
+   "family": "Baloo 2",
+   "category": "rounded",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700,
+    800
+   ],
+   "allWeights": [
+    400,
+    500,
+    600,
+    700,
+    800
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "baloo-2-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 18920,
+     "sha256": "18ebcf63cd353f8472583e8261755fd527cddf0fdb5caa89dd2e60b4a9e4ba1c"
+    },
+    {
+     "file": "baloo-2-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 19436,
+     "sha256": "8e7ffc9b993aa8caa89bcab81e103c9eb2da4e3e042f37b7a5115d0ddbff12c0"
+    },
+    {
+     "file": "baloo-2-latin-800-normal.woff2",
+     "weight": 800,
+     "style": "normal",
+     "bytes": 18632,
+     "sha256": "3e36c57e37bda5b5f28cf10636d6d3aed4de5250df923f1b203b64ad857c79a7"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/baloo-2 (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Baloo+2",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/baloo-2/LICENSE.txt",
+   "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "sniglet",
+   "family": "Sniglet",
+   "category": "rounded",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400,
+    800
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "sniglet-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 24596,
+     "sha256": "24fcce3b384f27da0e5c8069f96b4d10196851364b53c98e3a47346550a2f76e"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/sniglet (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Sniglet",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/sniglet/LICENSE.txt",
+   "copyright": "Copyright (c) 2008, Haley Fiege (haley@kingdomofawesome.com), Copyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com) Copyright (c) 2013, Pablo Impallari (www.impallari.com|impallari@gmail.com), with no Reserved Font Name. Sniglet-ExtraBold.ttf: Copyright (c) 2008, Haley Fiege (haley@kingdomofawesome.com), Copyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com) Copyright (c) 2013, Pablo Impallari (www.impallari.com|impallari@gmail.com), with no Reserved Font Name.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v18",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "fredoka",
+   "family": "Fredoka",
+   "category": "rounded",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    600,
+    700
+   ],
+   "allWeights": [
+    300,
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "fredoka-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 16076,
+     "sha256": "9cf74f703532ef61311d6c6dd32a582b6e410727f5fce1dbf5570cbe6b023c2f"
+    },
+    {
+     "file": "fredoka-latin-600-normal.woff2",
+     "weight": 600,
+     "style": "normal",
+     "bytes": 16468,
+     "sha256": "b62f2898de150f019961f4884a49f83dcd2ce74375be5e0992c594ebb8f30294"
+    },
+    {
+     "file": "fredoka-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 15900,
+     "sha256": "ee61b48acab42fcfee4e1c398b03bbae7e09d1be8471779c440a97dc85118c16"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/fredoka (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Fredoka",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/fredoka/LICENSE.txt",
+   "copyright": "Copyright 2016 The Fredoka Project Authors (https://github.com/hafontia/Fredoka-One)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "cinzel",
+   "family": "Cinzel",
+   "category": "fantasy",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "cinzel-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 14128,
+     "sha256": "b873cdd90d6bd9ca4793c805b4175abfae00b3611ee8afccf63067133dcf1217"
+    },
+    {
+     "file": "cinzel-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 15184,
+     "sha256": "8efa224fe70fef188a39c095e218b81fd31061809f2752537e33a9ec7b9c2263"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/cinzel (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Cinzel",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/cinzel/LICENSE.txt",
+   "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v26",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "uncial-antiqua",
+   "family": "Uncial Antiqua",
+   "category": "fantasy",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "uncial-antiqua-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 19896,
+     "sha256": "4aad6ac5e6726069edbaafc10323af511baca1f1c9cc2b29c3f4ec601ba06284"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/uncial-antiqua (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Uncial+Antiqua",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/uncial-antiqua/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Uncial Antiqua\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v22",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "almendra",
+   "family": "Almendra",
+   "category": "fantasy",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    700
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "almendra-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 11284,
+     "sha256": "ba92bb3d3cc637dcc796782c423a32f1697b2bbbd919fcd5c0841885a8dc6abc"
+    },
+    {
+     "file": "almendra-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 11660,
+     "sha256": "b6f893b778ed1fdc888a7da3f4355efe86d390235ecc4cecfedf83d628b5f3aa"
+    },
+    {
+     "file": "almendra-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 12212,
+     "sha256": "e4b0f23d4dbc8843a0b69a3c62d18e70602f80a77df47854fc27115ff9b675c7"
+    },
+    {
+     "file": "almendra-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 11544,
+     "sha256": "2a7027702a8f6f31d61f3353f6e3aa3a4a3f7ce418e597cc4e6c3c0d6118dd23"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/almendra (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Almendra",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/almendra/LICENSE.txt",
+   "copyright": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra' Almendra-Italic.ttf: Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra' Almendra-Bold.ttf: Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra' Almendra-BoldItalic.ttf: Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v28",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "metamorphous",
+   "family": "Metamorphous",
+   "category": "fantasy",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "metamorphous-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 23100,
+     "sha256": "8254a00416dd6f08b633e72eaa427edbc4142a5046ed83914ea7796ec946d670"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/metamorphous (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Metamorphous",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/metamorphous/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name \"Metamorphous\".",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v22",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "macondo",
+   "family": "Macondo",
+   "category": "fantasy",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "macondo-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 11560,
+     "sha256": "892cfdc13b08ecddf00768d1099c1d1bfa92d028f6fe4343051f4356897919be"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/macondo (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Macondo",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/macondo/LICENSE.txt",
+   "copyright": "Copyright (c) 1997 - 2011, John Vargas Beltran. (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Macondo\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v27",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "pirata-one",
+   "family": "Pirata One",
+   "category": "fantasy",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "pirata-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 8868,
+     "sha256": "44b3b2295b8458efd2772a35dad4060f7bd6c434b6c39b31181ca9dff2175576"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/pirata-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Pirata+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/pirata-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2012, Rodrigo Fuenzalida (hello@rfuenzalida.com), Nicolas Massi (www.taip.com.ar / abc.taip.com.ar / nmassi@gmail.com), with Reserved Font Name 'Pirata'",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "unifrakturcook",
+   "family": "UnifrakturCook",
+   "category": "fantasy",
+   "fontsourceCategory": "display",
+   "weights": [
+    700
+   ],
+   "allWeights": [
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "unifrakturcook-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 17280,
+     "sha256": "3304757748716ececd1b87999cb92d61ff5332aefbe8331d5155bbb68218e588"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/unifrakturcook (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/UnifrakturCook",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/unifrakturcook/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 j. 'mach' wust (j.mach.wust@gmail.com) with Reserved Font Name UnifrakturCook. Copyright (c) 2009 Peter Wiegel (wiegel@peter-wiegel.de). This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "grenze-gotisch",
+   "family": "Grenze Gotisch",
+   "category": "fantasy",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "grenze-gotisch-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 15984,
+     "sha256": "a616f95684c78cfb94dacab7b74fbd0f7b9209272e3aa541dd7ebe60c6512745"
+    },
+    {
+     "file": "grenze-gotisch-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 17112,
+     "sha256": "09fb5ce19eeee944bf8d90155ffd1d74709f586cda22182ad28f015b6746c39b"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/grenze-gotisch (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Grenze+Gotisch",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/grenze-gotisch/LICENSE.txt",
+   "copyright": "Copyright 2020 The Grenze Gotisch Project Authors (https://github.com/Omnibus-Type/Grenze-Gotisch)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v20",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "new-rocker",
+   "family": "New Rocker",
+   "category": "fantasy",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "new-rocker-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 29264,
+     "sha256": "69700006fdbc25867540159d57402b5778561e0e1c9e619d35c81dfb668e6a2e"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/new-rocker (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/New+Rocker",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/new-rocker/LICENSE.txt",
+   "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Copyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com), Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name 'New Rocker'",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "medievalsharp",
+   "family": "MedievalSharp",
+   "category": "fantasy",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "medievalsharp-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 38788,
+     "sha256": "5cc53d21f70901c28f8e749b9180d6f25c8395cabac398d5a030ecef3c35393c"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/medievalsharp (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/MedievalSharp",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/medievalsharp/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Wojciech 'wmk69' Kalinowski (wmk69@o2.pl)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v28",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "jim-nightshade",
+   "family": "Jim Nightshade",
+   "category": "fantasy",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "jim-nightshade-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 50936,
+     "sha256": "603a561529d9dad59fb769c23a96e9c31cb04235ee45557efa9e6de3b7cde582"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/jim-nightshade (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Jim+Nightshade",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/jim-nightshade/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Jim Nightshade\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "germania-one",
+   "family": "Germania One",
+   "category": "fantasy",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "germania-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 9100,
+     "sha256": "d68fcab8c2b42b25324e50ac57a3b5757e5e2e1f2b8328557ef31e554461c006"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/germania-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Germania+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/germania-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by John Vargas Beltran (john.vargasbeltran@gmail.com), with Reserved Font Name \"Germania One\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "texturina",
+   "family": "Texturina",
+   "category": "fantasy",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "texturina-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 21580,
+     "sha256": "3404819b93e65ce1ee32d1ff671a71b36c8bf99202401351a44c4546ed6c2739"
+    },
+    {
+     "file": "texturina-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 21912,
+     "sha256": "3ac8434d4cf81ec4dcbd3b016098ba5889ec1872edc37ccf859fc87c4bdd122d"
+    },
+    {
+     "file": "texturina-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 21136,
+     "sha256": "c957bc970d70bd6fec57f2cb919e1752cb2f3914e3fe1aea884379ef7f708549"
+    },
+    {
+     "file": "texturina-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 21436,
+     "sha256": "4b7411d2dd38917c4c7f1bf2eccb881e5ed6f65997f321087658a84383a15bca"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/texturina (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Texturina",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/texturina/LICENSE.txt",
+   "copyright": "Copyright 2020 The Texturina Project Authors (https://github.com/Omnibus-Type/Texturina) Texturina-Italic[opsz,wght].ttf: Copyright 2020 The Texturina Project Authors (https://github.com/Omnibus-Type/Texturina)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v32",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "eagle-lake",
+   "family": "Eagle Lake",
+   "category": "fantasy",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "eagle-lake-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 28300,
+     "sha256": "ef2f24b9642437f7338689e92b5f974dc881908162ee6d59df71fbf2be4bee58"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/eagle-lake (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Eagle+Lake",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/eagle-lake/LICENSE.txt",
+   "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Eagle Lake\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v26",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "creepster",
+   "family": "Creepster",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "creepster-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 28120,
+     "sha256": "899f0b2dd69f34439731f2726804a9593ba8161294e9b4a1ed4fd9f84e094470"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/creepster (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Creepster",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/creepster/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Font Diner, Inc (diner@fontdiner.com), with Reserved Font Names \"Creepster\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v13",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "nosifer",
+   "family": "Nosifer",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "nosifer-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 15048,
+     "sha256": "096a29714e250d9e4ebe693882a519fbad3f6a219b47e47442b29fc1c69a440a"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/nosifer (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Nosifer",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/nosifer/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Vernon Adams DBA Typomondo (vern@newtypography.co.uk), with Reserved Font Name \"Nosifer\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "eater",
+   "family": "Eater",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "eater-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 41704,
+     "sha256": "5abca7691eeab50a51b39f318f8048f89e7100302c3389d7425c5a2c0c141556"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/eater (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Eater",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/eater/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Vernon Adams DBA Typomondo (vern@newtypography.co.uk), with Reserved Font Name \"Eater\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v27",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "butcherman",
+   "family": "Butcherman",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "butcherman-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 30832,
+     "sha256": "f03f14218539996d8ec2ca41799216dbdaf3f84297e6c84fabcec34dc721b4b9"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/butcherman (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Butcherman",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/butcherman/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name  \"Butcherman\".",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "metal-mania",
+   "family": "Metal Mania",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "metal-mania-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 76484,
+     "sha256": "c04fd74ab7644c838f12b532d633944d640b8937d26b386465272d52ad4cc1ce"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/metal-mania (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Metal+Mania",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/metal-mania/LICENSE.txt",
+   "copyright": "Copyright (c) 2012 by Open Window (dathanboardman@gmail.com) with Reseved Font Name \"Metal Mania\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "rubik-wet-paint",
+   "family": "Rubik Wet Paint",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "rubik-wet-paint-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 76272,
+     "sha256": "421022208340d77a40611ac1a447b2063cb0d23dd1360097fa6fe439a5912655"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/rubik-wet-paint (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Rubik+Wet+Paint",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/rubik-wet-paint/LICENSE.txt",
+   "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v2",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "jolly-lodger",
+   "family": "Jolly Lodger",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "jolly-lodger-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17872,
+     "sha256": "05ef2ba685cf9ca242623122c5dc2bde0ef178aad4deb5db31a05532edc9d545"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/jolly-lodger (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Jolly+Lodger",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/jolly-lodger/LICENSE.txt",
+   "copyright": "Copyright (c) 2012 by Font Diner, Inc (diner@fontdiner.com) with Reseved Font Name \"Jolly Lodger\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "frijole",
+   "family": "Frijole",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "frijole-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 92364,
+     "sha256": "a2212e8b68ebb3ecb1155a5e9be525a77c6a5b8d7424aa3e3190bade4636ead1"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/frijole (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Frijole",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/frijole/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Frijole\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v15",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "special-elite",
+   "family": "Special Elite",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "special-elite-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 53296,
+     "sha256": "770493d84cbb753cd0573d0f014550583138f40469d137e310d239593a1949d8"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/special-elite (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Special+Elite",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/special-elite/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v20",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "henny-penny",
+   "family": "Henny Penny",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "henny-penny-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 44808,
+     "sha256": "2a18c0a4554fd35b393b609bb3fd60be72e773d57600baeb2be1252e30919e26"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/henny-penny (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Henny+Penny",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/henny-penny/LICENSE.txt",
+   "copyright": "Copyright (c) 2012, Brownfox (gayaneh.b@gmail.com), with Reserved Font Name \"Henny Penny\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v18",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "griffy",
+   "family": "Griffy",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "griffy-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 70004,
+     "sha256": "f1f5e5e8b780fd222504f4df5b2aa565872625864f716252c86ff2eca17f58b0"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/griffy (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Griffy",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/griffy/LICENSE.txt",
+   "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Griffy\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "kranky",
+   "family": "Kranky",
+   "category": "horror",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "kranky-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 76032,
+     "sha256": "6b5b7d6bb53b63096cc5c17543f056d77f09bea8ab8d4f1b408da23de6aef967"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/kranky (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Kranky",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/kranky/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v29",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "orbitron",
+   "family": "Orbitron",
+   "category": "scifi",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "orbitron-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 6396,
+     "sha256": "9320ca80be2f4275e7aaa009bc058b9ea46264d4f92b06f0b822c3405cf45841"
+    },
+    {
+     "file": "orbitron-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 6528,
+     "sha256": "ee6acc5ad5349018f9ca71fab8118144160e110838931874150a1ac3f97db38d"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/orbitron (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Orbitron",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/orbitron/LICENSE.txt",
+   "copyright": "Copyright 2018 The Orbitron Project Authors (https://github.com/theleagueof/orbitron)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v35",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "audiowide",
+   "family": "Audiowide",
+   "category": "scifi",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "audiowide-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 14132,
+     "sha256": "e21fd195dd9dcdafc5a0f162a8fc252703f3683179861afb057cd58f9d27dbe5"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/audiowide (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Audiowide",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/audiowide/LICENSE.txt",
+   "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Audiowide\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v22",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "exo-2",
+   "family": "Exo 2",
+   "category": "scifi",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "exo-2-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 17588,
+     "sha256": "29e963f8ee5a74b9cc119dc0d61cb9adb9a8d4b1a45c50c0fd847afd36e675b6"
+    },
+    {
+     "file": "exo-2-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 18192,
+     "sha256": "869979d9752f8c9016b92bac2ec230f79d24a5ae7217b777356ec14d6491c541"
+    },
+    {
+     "file": "exo-2-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 16720,
+     "sha256": "49c9cd329161f5c5feed3ae80a788199f2dce127c00828e027a61261cf602491"
+    },
+    {
+     "file": "exo-2-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 17220,
+     "sha256": "96c87b1597aed754e0ad45970883774e851a390788e7fba7b3f49f8d1f6e5a6b"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/exo-2 (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Exo+2",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/exo-2/LICENSE.txt",
+   "copyright": "Copyright 2013 The Exo 2 Project Authors (https://github.com/googlefonts/Exo-2.0) Exo2-Italic[wght].ttf: Copyright 2013 The Exo 2 Project Authors (https://github.com/googlefonts/Exo-2.0)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v26",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "michroma",
+   "family": "Michroma",
+   "category": "scifi",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "michroma-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17908,
+     "sha256": "754fdb31c9906e82cf9c0ecb1d0b528073818fc2c418a39932c83a34cca027b6"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/michroma (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Michroma",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/michroma/LICENSE.txt",
+   "copyright": "Copyright 2011 The Michroma Project Authors (https://github.com/googlefonts/Michroma-font)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "oxanium",
+   "family": "Oxanium",
+   "category": "scifi",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "oxanium-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 8816,
+     "sha256": "e77dffc577755217c83aead133969093df038412ee7f85520361b24f22dad377"
+    },
+    {
+     "file": "oxanium-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 8776,
+     "sha256": "19ac72d5a8b3b31316133df3dc8e5b47f93dfc4b85245b776dd6d70fc4b3504c"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/oxanium (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Oxanium",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/oxanium/LICENSE.txt",
+   "copyright": "Copyright 2019 The Oxanium Project Authors (https://github.com/sevmeyer/oxanium)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "syncopate",
+   "family": "Syncopate",
+   "category": "scifi",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "syncopate-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 32344,
+     "sha256": "b57f964dfec15bc7e94db5c8930e02d2f4031c284a8e852b23b81a29450dbd14"
+    },
+    {
+     "file": "syncopate-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 17432,
+     "sha256": "8a462650535a7d255dd037dc3ca7eefde4b2b988bb110736290dbd7b74a83fea"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/syncopate (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Syncopate",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/syncopate/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html Syncopate-Bold.ttf: Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v24",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "zen-dots",
+   "family": "Zen Dots",
+   "category": "scifi",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "zen-dots-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 13856,
+     "sha256": "aaad72a24e4047bf39cac4bca3c5de075c83b11476b3b162e2a3939b9fe5fceb"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/zen-dots (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Zen+Dots",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/zen-dots/LICENSE.txt",
+   "copyright": "Copyright 2021 The Dots Project Authors (https://github.com/googlefonts/zen-dots)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v14",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "quantico",
+   "family": "Quantico",
+   "category": "scifi",
+   "fontsourceCategory": "sans-serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    700
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "quantico-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 5868,
+     "sha256": "9adef87c4a83af9f90f8d173bc92bd5c78a60e1d45dcf9930f31cd94080f8647"
+    },
+    {
+     "file": "quantico-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 5832,
+     "sha256": "62c2d268beb06e082f664002d7cd6fc14a1025984282c32f90e0a9f7a3110880"
+    },
+    {
+     "file": "quantico-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 5384,
+     "sha256": "93e051a858871edb3ae5f429957710e1fd61737f138600b5f7bef481b06f8cf6"
+    },
+    {
+     "file": "quantico-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 5436,
+     "sha256": "87c8dc997480fca2cbc1dced6fe5c57ca1d762134028716adb41d14410fa3163"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/quantico (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Quantico",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/quantico/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\" Quantico-Italic.ttf: Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\" Quantico-Bold.ttf: Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\" Quantico-BoldItalic.ttf: Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v19",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "megrim",
+   "family": "Megrim",
+   "category": "scifi",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "megrim-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 11580,
+     "sha256": "c161cb25627927f4d686d2b2fff1686101c2719edcfb9d77830fe15c59620bfe"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/megrim (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Megrim",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/megrim/LICENSE.txt",
+   "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v18",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "tektur",
+   "family": "Tektur",
+   "category": "scifi",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "tektur-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 7312,
+     "sha256": "3e247f71200640a131085b67a84f6b101469b0c90f3c4feddf070e4790087fe1"
+    },
+    {
+     "file": "tektur-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 7592,
+     "sha256": "8554bb72ecccd8f4a5d8296aab136b57bc31cdc03952d1e9df55c06dc8486a11"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/tektur (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Tektur",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/tektur/LICENSE.txt",
+   "copyright": "Copyright 2023 The Tektur Project Authors (https://www.github.com/hyvyys/Tektur)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v6",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "goldman",
+   "family": "Goldman",
+   "category": "scifi",
+   "fontsourceCategory": "display",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    700
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "goldman-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17352,
+     "sha256": "47db53f64d844538346de9daa4200026033bebc71ea7024c9b57c6879adc5299"
+    },
+    {
+     "file": "goldman-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 17568,
+     "sha256": "5124e7701fde57021223d1fa2c549b1f9fd9549747eb8cbcc3b07ba5419fe004"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/goldman (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Goldman",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/goldman/LICENSE.txt",
+   "copyright": "Copyright 2018 The Goldman Project Authors (https://github.com/magictype/goldman) Goldman-Bold.ttf: Copyright 2018 The Goldman Project Authors (https://github.com/magictype/goldman)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "wallpoet",
+   "family": "Wallpoet",
+   "category": "scifi",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "wallpoet-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 12532,
+     "sha256": "aa66e36ba9357f72549de4e06c9a4d506cfdeb86c2c9737e981c3c0d1b5f9107"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/wallpoet (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Wallpoet",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/wallpoet/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by Lars Berggren (punktlars@gmail.com). All rights reserved.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "stalinist-one",
+   "family": "Stalinist One",
+   "category": "scifi",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "stalinist-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 11368,
+     "sha256": "f602383e7d0a2da8590e00b0661d702edcab7378d321d1d112b0bc6f713f3d73"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/stalinist-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Stalinist+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/stalinist-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2009-2011, Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Stalinist'",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v58",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "major-mono-display",
+   "family": "Major Mono Display",
+   "category": "scifi",
+   "fontsourceCategory": "monospace",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "major-mono-display-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 17512,
+     "sha256": "3fcb93251028559c08304b621be8d132d1360b0efae44c0f282181fb1e9800f3"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/major-mono-display (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Major+Mono+Display",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/major-mono-display/LICENSE.txt",
+   "copyright": "Copyright 2018 The Major Mono Project Authors (https://github.com/googlefonts/majormono)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v18",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "rye",
+   "family": "Rye",
+   "category": "western",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "rye-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 41416,
+     "sha256": "00de26ff9e435fb8f9e3ad15877f9deb4b70f3945ae0abcf7f0ed278d593014b"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/rye (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Rye",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/rye/LICENSE.txt",
+   "copyright": "Copyright (c) 2012, Sorkin Type Co (eben@eyebytes.com) with Reserved Font Name 'Rye'",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "sancreek",
+   "family": "Sancreek",
+   "category": "western",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "sancreek-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 20172,
+     "sha256": "e653a9e25ddf39934c3f22be285e8f53ed056abe3d27396922db289c718ade3a"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/sancreek (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Sancreek",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/sancreek/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Sancreek\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v27",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "ewert",
+   "family": "Ewert",
+   "category": "western",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "ewert-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 13728,
+     "sha256": "2a98066e14efc2176ee1ba818ea565e77409b81a9a909e1b53b286307a2e70fb"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/ewert (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Ewert",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/ewert/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011 Mihkel Virkus (mihkelvirkus@gmail.com) with Reserved Font Name Ewert.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v27",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "smokum",
+   "family": "Smokum",
+   "category": "western",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "smokum-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 18444,
+     "sha256": "6c16d8c4fe4f0338456012973488e84f914556990fc87d1f7acf5e1a1c8a3e29"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/smokum (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Smokum",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/smokum/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v30",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "holtwood-one-sc",
+   "family": "Holtwood One SC",
+   "category": "western",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "holtwood-one-sc-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 18568,
+     "sha256": "3cab993b4431f7a8be7d481e341b5d27214c1a0872d1a688cbbea515d7ec08b0"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/holtwood-one-sc (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Holtwood+One+SC",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/holtwood-one-sc/LICENSE.txt",
+   "copyright": "Copyright 2011 The Holtwood Project Authors (https://github.com/googlefonts/HoltwoodFont)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v23",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "diplomata",
+   "family": "Diplomata",
+   "category": "western",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "diplomata-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 27312,
+     "sha256": "cb3453fbf5ee8dd585a485282d45daaff815e576d3527eaa448af396aa9bf4f2"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/diplomata (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Diplomata",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/diplomata/LICENSE.txt",
+   "copyright": "Copyright 2011 The Diplomata Project Authors (https://github.com/etunni/diplomata), with Reserved Font Name \"Diplomata\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v33",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "ranchers",
+   "family": "Ranchers",
+   "category": "western",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "ranchers-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 24260,
+     "sha256": "32d496ad6d097112639d190245b34e5f6fc768d076ff22c3d723a8a114093000"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/ranchers (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Ranchers",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/ranchers/LICENSE.txt",
+   "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Brenda Gallo. (gbrenda1987@gmail.com), with Reserved Font Name Ranchers.",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v19",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "bevan",
+   "family": "Bevan",
+   "category": "western",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "bevan-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 21348,
+     "sha256": "7db52ca07f9d766dee7a813372850c34d245a286bac23b905f2f148d616898c4"
+    },
+    {
+     "file": "bevan-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 21008,
+     "sha256": "b2f840ba287ab2e6d74139b9646d6decd2548a24da7cf8519e828d31f5a6ca84"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/bevan (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Bevan",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/bevan/LICENSE.txt",
+   "copyright": "Copyright 2016 The Bevan Project Authors (https://github.com/googlefonts/BevanFont) Bevan-Italic.ttf: Copyright 2016 The Bevan Project Authors (https://github.com/googlefonts/BevanFont)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v26",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "alfa-slab-one",
+   "family": "Alfa Slab One",
+   "category": "western",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "alfa-slab-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 19052,
+     "sha256": "48a110c7fda81f9921a6437e1a813dcea56df5a9f52f778c7b2f2151e36e4f2c"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/alfa-slab-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Alfa+Slab+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/alfa-slab-one/LICENSE.txt",
+   "copyright": "Copyright 2016 The Alfa Slab One Project Authors (http://www.jmsole.cl | info@jmsole.cl), with Reserved Font Name \"Alfa Slab\".",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "graduate",
+   "family": "Graduate",
+   "category": "western",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "graduate-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 6040,
+     "sha256": "be007a2cb32338395f23479de12114f74e3a2184aec585fd195514fb515a24cd"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/graduate (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Graduate",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/graduate/LICENSE.txt",
+   "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name \"Graduate\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v19",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "vast-shadow",
+   "family": "Vast Shadow",
+   "category": "western",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "vast-shadow-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 22916,
+     "sha256": "bae1dbfab505d72d9688862505e839638b4169021305679a52855867489d339f"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/vast-shadow (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Vast+Shadow",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/vast-shadow/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Sorkin Type Co (eben@eyebytes.com) with Reserved Font Name Vast and Vast Shadow. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "wellfleet",
+   "family": "Wellfleet",
+   "category": "western",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "wellfleet-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 15572,
+     "sha256": "6367f471410495548d08912d8fa755365dc84fdfa38e321972e08a741f73a2b1"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/wellfleet (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Wellfleet",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/wellfleet/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com), with Reserved Font Name Wellfleet",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "playfair-display",
+   "family": "Playfair Display",
+   "category": "elegant",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "playfair-display-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 21884,
+     "sha256": "eabce94d4a69e439cd050755c31f9894ac8a78f93e58b063c6c01f370474e1de"
+    },
+    {
+     "file": "playfair-display-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 23196,
+     "sha256": "de2f4041e7ef84f418bd0144484e521e8df849aff47762230c981704b9661877"
+    },
+    {
+     "file": "playfair-display-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 21856,
+     "sha256": "1fe9ad5d8b2ebd8ecb8fbd05bed1e3fdfa52dae3f1a04e1c219918442fe9394d"
+    },
+    {
+     "file": "playfair-display-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 23224,
+     "sha256": "28453852ea165c47b5a941be00e418402e1407002ed87507f062a1e316328fe6"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/playfair-display (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Playfair+Display",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/playfair-display/LICENSE.txt",
+   "copyright": "Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name \"Playfair Display\". PlayfairDisplay-Italic[wght].ttf: Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name \"Playfair Display\".",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v40",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "abril-fatface",
+   "family": "Abril Fatface",
+   "category": "elegant",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "abril-fatface-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 13156,
+     "sha256": "edf7a1f3bc22e815ea426b102fa0493d20af482b242066e689a1263ebb2eeb68"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/abril-fatface (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Abril+Fatface",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/abril-fatface/LICENSE.txt",
+   "copyright": "Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com info@type-together.com), with Reserved Font Names \"Abril\" and \"Abril Fatface\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "cormorant-garamond",
+   "family": "Cormorant Garamond",
+   "category": "elegant",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    300,
+    400,
+    500,
+    600,
+    700
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "cormorant-garamond-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 23660,
+     "sha256": "e48e58027030df56869b795ca6f19b7012158275f7ad7cde1900b4a0b68d02e2"
+    },
+    {
+     "file": "cormorant-garamond-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 22396,
+     "sha256": "365e35e77095813205cf30a40acf3443ed05d95ffa31d1504e14213e87a3e4dc"
+    },
+    {
+     "file": "cormorant-garamond-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 22876,
+     "sha256": "8048ac209bec741e1c29cd0cfac5aac1c0c2ba8c3ddbd4a58fa9bd92ef5c63c2"
+    },
+    {
+     "file": "cormorant-garamond-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 22340,
+     "sha256": "21a0fc1c5c22708cf4aa0c147fd32982e25bf9e21efec0ca31a4495ba41753eb"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/cormorant-garamond (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Cormorant+Garamond",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/cormorant-garamond/LICENSE.txt",
+   "copyright": "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant) CormorantGaramond-Italic[wght].ttf: Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "great-vibes",
+   "family": "Great Vibes",
+   "category": "elegant",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "great-vibes-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 42800,
+     "sha256": "c59dc73d29daf142ef2431f455d21464172374aa750d793a79d608735db2d856"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/great-vibes (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Great+Vibes",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/great-vibes/LICENSE.txt",
+   "copyright": "Copyright 2010 The Great Vibes Pro Project Authors (https://github.com/googlefonts/great-vibes)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "lobster",
+   "family": "Lobster",
+   "category": "elegant",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "lobster-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 33844,
+     "sha256": "aed68c73817364906ff95d97be87246d106bd38d5e4397e4866ec831ee22f7ba"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/lobster (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Lobster",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/lobster/LICENSE.txt",
+   "copyright": "Copyright 2010 The Lobster Project Authors (https://github.com/impallari/The-Lobster-Font), with Reserved Font Name \"Lobster\".",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v32",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "yellowtail",
+   "family": "Yellowtail",
+   "category": "elegant",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "yellowtail-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 18308,
+     "sha256": "78f5413a0d04f3331122d49f10507a6c290afe4d441fc49a968c7779331aedb4"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/yellowtail (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Yellowtail",
+   "licenseId": "Apache-2.0",
+   "licenseName": "Apache License 2.0",
+   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+   "licenseFile": "fonts/yellowtail/LICENSE.txt",
+   "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and redistributed with the licence text.",
+   "fontVersion": "v25",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "parisienne",
+   "family": "Parisienne",
+   "category": "elegant",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "parisienne-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 22600,
+     "sha256": "cf3c285d1ec1ee935746c475ca71e20d9f1fc3b5d62166e2523acdd0737e239c"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/parisienne (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Parisienne",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/parisienne/LICENSE.txt",
+   "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Parisienne\"",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v14",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "limelight",
+   "family": "Limelight",
+   "category": "elegant",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "limelight-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 23080,
+     "sha256": "ba3e86ecc0e1ce145784f4eb7fb593af683e88568336ea2ae9c26a486ffe0dfc"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/limelight (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Limelight",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/limelight/LICENSE.txt",
+   "copyright": "Copyright (c) 2010 by Sorkin Type Co (eben@eyebytes.com) with Reserved Font Name Limelight. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v21",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "poiret-one",
+   "family": "Poiret One",
+   "category": "elegant",
+   "fontsourceCategory": "display",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "poiret-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 7824,
+     "sha256": "a6361b9b4bd84cd02407a4674e0158642a51d5f968f0366adf8a19302bec6c0c"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/poiret-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Poiret+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/poiret-one/LICENSE.txt",
+   "copyright": "Copyright 2011 The Poiret One Project Authors (https://github.com/alexeiva/poiretone)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v18",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "bodoni-moda",
+   "family": "Bodoni Moda",
+   "category": "elegant",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400,
+    700
+   ],
+   "allWeights": [
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+   ],
+   "styles": [
+    "italic",
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "bodoni-moda-latin-400-italic.woff2",
+     "weight": 400,
+     "style": "italic",
+     "bytes": 16552,
+     "sha256": "783fd966b8ebb26034e892767b877c475d375d9227f5f5476d05ad5529d18232"
+    },
+    {
+     "file": "bodoni-moda-latin-700-italic.woff2",
+     "weight": 700,
+     "style": "italic",
+     "bytes": 17028,
+     "sha256": "377d7b7874521ceed8a2379c39574cd116a389ec05edeb11befaa5f31f538ef6"
+    },
+    {
+     "file": "bodoni-moda-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 14528,
+     "sha256": "e2863d3bbe2e094f1ce98053ee3c6200cfa35f82b9f4cc6fd95fbaead4125d4f"
+    },
+    {
+     "file": "bodoni-moda-latin-700-normal.woff2",
+     "weight": 700,
+     "style": "normal",
+     "bytes": 14988,
+     "sha256": "595d28347ea02f9adccab277f49a122f04212fd220e972ce0c80fe933c915541"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/bodoni-moda (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Bodoni+Moda",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/bodoni-moda/LICENSE.txt",
+   "copyright": "Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type/Bodoni) BodoniModa-Italic[opsz,wght].ttf: Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type/Bodoni)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v28",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "rozha-one",
+   "family": "Rozha One",
+   "category": "elegant",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "rozha-one-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 18176,
+     "sha256": "a59c71d6d0228815b82ac65ea344a928cc80d684fc5aa74cf1088b4f1d869aff"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/rozha-one (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Rozha+One",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/rozha-one/LICENSE.txt",
+   "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v17",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "gloock",
+   "family": "Gloock",
+   "category": "elegant",
+   "fontsourceCategory": "serif",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "gloock-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 26356,
+     "sha256": "9389ada8d35754635432c5565f03e8e3ce0f37f529207356426d1d9983b1bc29"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/gloock (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Gloock",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/gloock/LICENSE.txt",
+   "copyright": "Copyright 2022 The Gloock Project Authors (https://github.com/duartp/gloock)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v8",
+   "dateChecked": "2026-10-02"
+  },
+  {
+   "id": "pinyon-script",
+   "family": "Pinyon Script",
+   "category": "elegant",
+   "fontsourceCategory": "handwriting",
+   "weights": [
+    400
+   ],
+   "allWeights": [
+    400
+   ],
+   "styles": [
+    "normal"
+   ],
+   "files": [
+    {
+     "file": "pinyon-script-latin-400-normal.woff2",
+     "weight": 400,
+     "style": "normal",
+     "bytes": 39044,
+     "sha256": "3e1f69a201572cad4aabea7ccf720f093a7dbc005380b2a1b89e0b94476d3e42"
+    }
+   ],
+   "source": "https://fontsource.org/fonts/pinyon-script (Fontsource 5.3.0; Google Fonts, https://github.com/google/fonts)",
+   "sourceUrl": "https://fonts.google.com/specimen/Pinyon+Script",
+   "licenseId": "OFL-1.1",
+   "licenseName": "SIL Open Font License 1.1",
+   "licenseUrl": "https://openfontlicense.org",
+   "licenseFile": "fonts/pinyon-script/LICENSE.txt",
+   "copyright": "Copyright 2022 The PinyonScript Project Authors (https://github.com/SorkinType/Pinyon)",
+   "redistributionPermitted": true,
+   "redistributionNote": "May be used commercially and embedded/redistributed with the licence text; the font may not be sold on its own.",
+   "fontVersion": "v24",
+   "dateChecked": "2026-10-02"
+  }
+ ]
+}

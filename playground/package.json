@@ -1,0 +1,50 @@
+{
+  "name": "bangers-theme-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "BANGERS Theme Studio: editable themes, effect presets and sequences with portable, verifiable bundles.",
+  "type": "module",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build:runtime": "node scripts/build-runtime.mjs",
+    "dev": "npm run build:runtime && vite",
+    "build": "npm run build:runtime && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "npm run build:runtime && vitest run",
+    "test:watch": "vitest",
+    "e2e": "npm run build && vitest run --config vitest.e2e.config.ts",
+    "verify-bundle": "node dist/cli/bangers.mjs verify",
+    "bangers": "node dist/cli/bangers.mjs",
+    "e2e:only": "vitest run --config vitest.e2e.config.ts",
+    "test:all": "npm run test && npm run e2e",
+    "build:single": "npm run build:runtime && node scripts/build-single.mjs",
+    "play": "node scripts/play.mjs",
+    "vfx": "node scripts/play-vfx.mjs",
+    "build:vfx-runtime": "node scripts/build-vfx-runtime.mjs",
+    "playground": "npm run build:vfx-runtime && vite --config vite.playground.config.ts --open /playground.html",
+    "build:playground": "npm run build:vfx-runtime && tsc --noEmit && vite build --config vite.playground.config.ts",
+    "build:playground-single": "npm run build:vfx-runtime && node scripts/build-playground-single.mjs",
+    "fonts:fetch": "node scripts/fetch-fonts.mjs",
+    "playground:e2e": "npm run build:playground && vitest run --config vitest.playground.config.ts",
+    "playground:e2e:only": "vitest run --config vitest.playground.config.ts"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "esbuild": "^0.28.2",
+    "playwright-core": "^1.63.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.2",
+    "vitest": "^5.0.3"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+generated/
+test-results/
+*.log
+.DS_Store
+showcase/out/video/
+showcase/out/layers.png
+.cache/
+playground-out/

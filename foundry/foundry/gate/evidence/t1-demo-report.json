@@ -1,0 +1,227 @@
+{
+  "game": "foundry_t1_demo",
+  "ok": true,
+  "strict_ok": true,
+  "modes": [
+    {
+      "name": "base",
+      "cost": 1.0,
+      "books": 10000,
+      "rtp": 0.9619999999837117,
+      "std": 7.753196319583809,
+      "hit_rate": 0.29071448571500014,
+      "one_in": 3.439801073347074,
+      "max_win_x": 5000.0,
+      "min_nonzero_payout_x": 0.1,
+      "distinct_payouts": 533,
+      "events": 110856,
+      "events_per_book": 11.0856,
+      "longest_round_events": 197,
+      "events_file_bytes": 2941962
+    },
+    {
+      "name": "bonus",
+      "cost": 200.0,
+      "books": 10000,
+      "rtp": 0.9620000000035229,
+      "std": 208.6708509380194,
+      "hit_rate": 0.999433418399634,
+      "one_in": 1.00056690279706,
+      "max_win_x": 5000.0,
+      "min_nonzero_payout_x": 0.2,
+      "distinct_payouts": 1444,
+      "events": 768544,
+      "events_per_book": 76.8544,
+      "longest_round_events": 202,
+      "events_file_bytes": 18630122
+    }
+  ],
+  "checks": [
+    {
+      "name": "SDK verifier (unmodified) ran",
+      "ok": true,
+      "detail": "run.py completed execute_all_tests without error",
+      "critical": true
+    },
+    {
+      "name": "base: RTP in Engine band",
+      "ok": true,
+      "detail": "96.2000%",
+      "critical": true
+    },
+    {
+      "name": "base: RTP under Foundry ceiling",
+      "ok": true,
+      "detail": "96.2000% <= 96.6%",
+      "critical": false
+    },
+    {
+      "name": "base: cost <= Engine max",
+      "ok": true,
+      "detail": "1.0x",
+      "critical": true
+    },
+    {
+      "name": "base: cost <= Foundry max (2-star)",
+      "ok": true,
+      "detail": "1.0x",
+      "critical": false
+    },
+    {
+      "name": "base: max payout <= Engine max",
+      "ok": true,
+      "detail": "5000.0x",
+      "critical": true
+    },
+    {
+      "name": "base: max payout <= Foundry max (2-star)",
+      "ok": true,
+      "detail": "5000.0x",
+      "critical": false
+    },
+    {
+      "name": "base: non-zero hit rate >= 1 in 50",
+      "ok": true,
+      "detail": "1 in 3.44",
+      "critical": true
+    },
+    {
+      "name": "base: events <= Engine limit",
+      "ok": true,
+      "detail": "110,856 events",
+      "critical": true
+    },
+    {
+      "name": "base: events <= Foundry budget (10% margin)",
+      "ok": true,
+      "detail": "110,856 of 9,000,000",
+      "critical": false
+    },
+    {
+      "name": "base: events file <= 4.2 GB",
+      "ok": true,
+      "detail": "2.9 MB",
+      "critical": true
+    },
+    {
+      "name": "bonus: RTP in Engine band",
+      "ok": true,
+      "detail": "96.2000%",
+      "critical": true
+    },
+    {
+      "name": "bonus: RTP under Foundry ceiling",
+      "ok": true,
+      "detail": "96.2000% <= 96.6%",
+      "critical": false
+    },
+    {
+      "name": "bonus: cost <= Engine max",
+      "ok": true,
+      "detail": "200.0x",
+      "critical": true
+    },
+    {
+      "name": "bonus: cost <= Foundry max (2-star)",
+      "ok": true,
+      "detail": "200.0x",
+      "critical": false
+    },
+    {
+      "name": "bonus: max payout <= Engine max",
+      "ok": true,
+      "detail": "5000.0x",
+      "critical": true
+    },
+    {
+      "name": "bonus: max payout <= Foundry max (2-star)",
+      "ok": true,
+      "detail": "5000.0x",
+      "critical": false
+    },
+    {
+      "name": "bonus: non-zero hit rate >= 1 in 50",
+      "ok": true,
+      "detail": "1 in 1.00",
+      "critical": true
+    },
+    {
+      "name": "bonus: events <= Engine limit",
+      "ok": true,
+      "detail": "768,544 events",
+      "critical": true
+    },
+    {
+      "name": "bonus: events <= Foundry budget (10% margin)",
+      "ok": true,
+      "detail": "768,544 of 9,000,000",
+      "critical": false
+    },
+    {
+      "name": "bonus: events file <= 4.2 GB",
+      "ok": true,
+      "detail": "18.6 MB",
+      "critical": true
+    },
+    {
+      "name": "base mode costs 1.0x and is cheapest",
+      "ok": true,
+      "detail": "[('base', 1.0), ('bonus', 200.0)]",
+      "critical": true
+    },
+    {
+      "name": "base std dev >= 0.6",
+      "ok": true,
+      "detail": "7.753",
+      "critical": true
+    },
+    {
+      "name": "base std dev <= 50 (2-star)",
+      "ok": true,
+      "detail": "7.753",
+      "critical": false
+    },
+    {
+      "name": "RTP spread across modes <= Engine 0.5 points",
+      "ok": true,
+      "detail": "0.0000%",
+      "critical": true
+    },
+    {
+      "name": "RTP spread across modes <= Foundry 0.2 points",
+      "ok": true,
+      "detail": "0.0000%",
+      "critical": false
+    },
+    {
+      "name": "base: rules text RTP matches measured",
+      "ok": true,
+      "detail": "text 96.2% vs measured 96.2000%",
+      "critical": true
+    },
+    {
+      "name": "base: rules text max win matches published max",
+      "ok": true,
+      "detail": "text 5000x vs published 5000.0x",
+      "critical": true
+    },
+    {
+      "name": "bonus: rules text RTP matches measured",
+      "ok": true,
+      "detail": "text 96.2% vs measured 96.2000%",
+      "critical": true
+    },
+    {
+      "name": "bonus: rules text max win matches published max",
+      "ok": true,
+      "detail": "text 5000x vs published 5000.0x",
+      "critical": true
+    },
+    {
+      "name": "reviewer replay event IDs found for every scenario",
+      "ok": true,
+      "detail": "all scenarios have an event ID",
+      "critical": false
+    }
+  ]
+}
